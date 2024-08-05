@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natangoorodischer
+- 👋 Hi, I’m @natangorodischer
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Nextjs 
 - 💞️ I’m looking to collaborate on ...
